@@ -477,12 +477,4 @@ For support and questions:
 
 ---
 
-**Smart Lab Power Shutdown Assistant** - Making lab maintenance safer and more efficient! 🚀# smart_lab
-# smart_lab
-# smart_lab
-# smart_lab
-# smart_lab
-# smart_lab
-# smart_lab
-# smart_lab
-# smart_lab
+
